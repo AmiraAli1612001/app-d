@@ -1,10 +1,5 @@
-
 venv/
+Lib/
+Scripts/
+pyvenv.cfg
 __pycache__/
-db.sqlite3
-*.pyc
-*.pyo
-*.log
-.env
-media/
-static/
